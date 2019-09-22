@@ -1,0 +1,33 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 25px 0;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.presentation {
+  height: 600px;
+  background-color: gray;
+  color: #ffffff;
+}
+
+.presentation-info {
+  display: block;
+  margin: 0 auto;
+}
