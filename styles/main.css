@@ -1,12 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
 }
 
 h1 {
   font-size: 40px;
-  font-weight: 900;
+  font-weight: 700;
   text-transform: uppercase;
-  padding: 150px 0 50px 0;
+  padding: 130px 0 20px 0;
 }
 
 h2 {
@@ -14,8 +19,15 @@ h2 {
   font-weight: 700;
   text-transform: uppercase;
   text-align: center;
-  margin: 25px 0;
+  margin: 50px 0;
   color: #666767;
+}
+
+h3 {
+  margin-bottom: 50px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 30px;
 }
 
 .container {
@@ -23,16 +35,93 @@ h2 {
   margin: 0 auto;
 }
 
+.separator {
+  background: #ffba00;
+  width: 120px;
+  height: 5px;
+  margin: 0 auto;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+
 .presentation {
-  height: 600px;
-  background: rgb(4, 113, 246);
+  background-color: rgba(2,2,1,0.7); 
+  background: url(/img/luke-chesser-3POMgLjfYv0-unsplash.jpg) no-repeat center top /cover;
+  color: #ffffff;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.presentation a {
+  color: #ffffff;
+}
+
+.presentation a:hover {
+  color: #666767;
+}
+
+a:visited {
+  color: #ffba00;
+}
+
+.presentation-img {
+  margin: 50px auto;
+}
+
+.my-photo {
+  width: 150px;
+  height: 150px;
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+}
+
+.contacts ul {
+  list-style-type: none;
+}
+
+.about-text p {
+  padding: 5px 0;
+  text-indent: 1.5em;
+  font-size: 16px;
+}
+
+.skillset ul li {
+  text-transform: uppercase;
+  padding: 5px;
+}
+
+.education-story li {
+  list-style-type: none;
+  padding: 10px 0;
+}
+
+.education-story span {
+  font-weight: 700;
+}
+
+.education-online p {
+  padding: 15px 0;
+  font-weight: 700;
+}
+
+.english {
+  padding-bottom: 50px;
+}
+
+.english-text {
+  text-align: center;
+}
+
+.footer {
+  color: #ffffff;
+  background: url(https://images.unsplash.com/photo-1561835476-95863b52c53f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80);
   background: linear-gradient(
     90deg,
-    rgba(4, 113, 246, 1) 0%,
-    rgba(11, 172, 226, 1) 35%,
-    rgba(8, 213, 206, 1) 50%,
-    rgba(0, 255, 169, 1) 100%
+    rgba(217, 94, 38, 0.9) 0%,
+    rgba(230, 199, 30, 0.9) 35%,
+    rgba(227, 196, 46, 0.9) 66%,
+    rgba(255, 186, 0, 0.9) 100%
   );
-  color: #ffffff;
+  padding: 20px 0;
   text-align: center;
 }
