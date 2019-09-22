@@ -108,3 +108,10 @@ JavaScript Tutorial Course | 2018
 - [SoloLearn](https://www.sololearn.com/Profile/8358976)
 (Here I reset progress several times to have more practice)
 - [UDEMY](https://www.udemy.com/user/nastia-mi/)
+
+##English
+
+I studied English only at school. Until the 6th grade, I studied English at a linguistics gymnasium in Vitebsk in a class with a focus on English.
+In July 2019, I graduated from English courses with native speakers from America - ***Practically Speaking English by [ESL.by](http://esl.by/)***.
+In this course I determined the level of language - *Intermediate*.
+The courses lasted 9 days, 2 hours per day.
