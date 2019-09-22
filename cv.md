@@ -42,3 +42,31 @@ Also, my plan is to enroll to **DesignSpot School** as I’m fond of *UI/UX desi
 - Basic knowlege in UI/UX
 - VSCode/Sublime Text 3/Notepad++/Brackets
 - Adobe Photoshop/Illustrator, Sketch
+
+## Code examples
+
+```css
+body {
+    background: url(../img/1.jpg) no-repeat center top / cover;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+
+div, p, a, img, form, button {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+```
