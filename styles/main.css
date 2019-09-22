@@ -8,18 +8,18 @@ body {
 }
 
 h1 {
+  padding: 130px 0 20px 0;
   font-size: 40px;
   font-weight: 700;
   text-transform: uppercase;
-  padding: 130px 0 20px 0;
 }
 
 h2 {
+  margin: 50px 0;
   font-size: 30px;
   font-weight: 700;
   text-transform: uppercase;
   text-align: center;
-  margin: 50px 0;
   color: #666767;
 }
 
@@ -45,23 +45,29 @@ h3 {
 }
 
 .presentation {
-  background-color: rgba(2,2,1,0.7); 
-  background: url(/img/luke-chesser-3POMgLjfYv0-unsplash.jpg) no-repeat center top /cover;
+  padding-bottom: 50px;
   color: #ffffff;
   text-align: center;
-  padding-bottom: 50px;
+  background-color: rgba(2,2,1,0.7); 
+  background: url(/img/luke-chesser-3POMgLjfYv0-unsplash.jpg) no-repeat center top /cover;
 }
 
 .presentation a {
   color: #ffffff;
+  text-decoration: none;
 }
 
 .presentation a:hover {
-  color: #666767;
+  color: #ffffff;
+  text-decoration: underline;
 }
 
 a:visited {
   color: #ffba00;
+}
+
+a:hover {
+  color: #ff4800;
 }
 
 .presentation-img {
@@ -86,13 +92,13 @@ a:visited {
 }
 
 .skillset ul li {
-  text-transform: uppercase;
   padding: 5px;
+  text-transform: uppercase;
 }
 
 .education-story li {
-  list-style-type: none;
   padding: 10px 0;
+  list-style-type: none;
 }
 
 .education-story span {
@@ -113,7 +119,7 @@ a:visited {
 }
 
 .footer {
-  color: #ffffff;
+  padding: 20px 0;
   background: url(https://images.unsplash.com/photo-1561835476-95863b52c53f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80);
   background: linear-gradient(
     90deg,
@@ -122,6 +128,6 @@ a:visited {
     rgba(227, 196, 46, 0.9) 66%,
     rgba(255, 186, 0, 0.9) 100%
   );
-  padding: 20px 0;
   text-align: center;
+  color: #ffffff;
 }
