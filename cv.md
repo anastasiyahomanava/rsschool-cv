@@ -76,3 +76,35 @@ a {
 Here you can look for my experience:
 - [GitLab](https://gitlab.com/Gomonova)
 - [GitHub](https://github.com/anastasiyahomanava)
+
+## Education
+
+- **EPAM Systems**
+Front-end Development Training (internal) | 2019
+
+- **EPAM Systems**
+Front-end Development Training (internal) | 2018
+
+- **UDEMY**
+Master the Basics of HTML5 & CSS3: Beginner Web-Development | 2019
+
+- **UDEMY**
+Web Development By Doing: HTML/CSS From Scratch | 2019
+
+- **HighLights School**
+Web-design in Adobe Photoshop Basics | 2019
+
+- **SoloLearn**
+HTML Fundamentals Course | 2018
+
+- **SoloLearn**
+JavaScript Tutorial Course | 2018
+
+***Also I have accounts on online platforms(you can look for my progress), such as:***
+
+- [FreeCodeCamp](https://www.freecodecamp.org/nastyami)
+- [CodeAcademy](https://www.codecademy.com/profiles/nastya_mi)
+- [HTMLAcademy](https://htmlacademy.ru/profile/id575367)
+- [SoloLearn](https://www.sololearn.com/Profile/8358976)
+(Here I reset progress several times to have more practice)
+- [UDEMY](https://www.udemy.com/user/nastia-mi/)
