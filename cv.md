@@ -31,3 +31,14 @@ To my regret, my knowlege at the end of the course was not enough for the posoti
 At some point, something happened to me called imposter syndrome.
 I wanted to give up everything and forget about the career of a programmer, but in July 2019, I found out about recruiting in ***RSSchool*** - for me it was like light in the dark, I again felt a desire to develop and realized that this was a great chance to close my knowledge gaps and structure it in my head. 
 Also, my plan is to enroll to **DesignSpot School** as I’m fond of *UI/UX design* to wide skillset in scope of *front-end development*.
+
+## Technical Skills
+
+- HTML5/CSS3
+- BEM
+- JavaScript core
+- Git
+- npm/yarn
+- Basic knowlege in UI/UX
+- VSCode/Sublime Text 3/Notepad++/Brackets
+- Adobe Photoshop/Illustrator, Sketch
