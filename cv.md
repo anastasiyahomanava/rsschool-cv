@@ -5,7 +5,7 @@
 - Mobile: +375 25 631-83-57
 - E-mail: nastya_mi@icloud.com
 
-## Summury
+## Summary
 
 I started *front-end development* education in 2017.
 At first, I was fond of graphic design and Photoshop, however, after reading Artemy Lebedev's book "Covodstvo", I became familar with the concepts of web0development and web-design.
@@ -30,7 +30,7 @@ To my regret, my knowlege at the end of the course was not enough for the posoti
 
 At some point, something happened to me called imposter syndrome.
 I wanted to give up everything and forget about the career of a programmer, but in July 2019, I found out about recruiting in ***RSSchool*** - for me it was like light in the dark, I again felt a desire to develop and realized that this was a great chance to close my knowledge gaps and structure it in my head. 
-Also, my plan is to enroll to **DesignSpot School** as I’m fond of *UI/UX design* to wide skillset in scope of *front-end development*.
+Also, my plan is to enroll to ***DesignSpot School*** as I’m fond of *UI/UX design* to wide skillset in scope of *front-end development*.
 
 ## Technical Skills
 
@@ -109,7 +109,7 @@ JavaScript Tutorial Course | 2018
 (Here I reset progress several times to have more practice)
 - [UDEMY](https://www.udemy.com/user/nastia-mi/)
 
-##English
+## English
 
 I studied English only at school. Until the 6th grade, I studied English at a linguistics gymnasium in Vitebsk in a class with a focus on English.
 In July 2019, I graduated from English courses with native speakers from America - ***Practically Speaking English by [ESL.by](http://esl.by/)***.
