@@ -49,7 +49,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   background-color: rgba(2, 2, 1, 0.7);
-  background: #e0a70c url(/img/pencil-bg.jpg) no-repeat center top /cover;
+  background: #e0a70c url(../img/pencil-bg.jpg) no-repeat center top /cover;
 }
 
 .presentation a {
