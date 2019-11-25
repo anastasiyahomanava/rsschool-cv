@@ -138,6 +138,14 @@ a:hover {
   font-weight: 700;
 }
 
+.education-online ul {
+  padding-left: 35px;
+}
+
+.education-story, .education-online {
+  padding: 0 5%;
+}
+
 .english {
   padding-bottom: 50px;
   line-height: 1.5;
