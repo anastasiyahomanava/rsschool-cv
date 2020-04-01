@@ -1,14 +1,35 @@
+@font-face { 
+  font-family: 'Futura PT'; 
+  src: url('../font/FuturaPT-Medium.ttf')  format('truetype');
+  font-weight: normal; 
+  font-style: normal; 
+}
+
+@font-face { 
+  font-family: 'Futura PT'; 
+  src: url('../font/FuturaPT-Bold.ttf')  format('truetype');
+  font-weight: 900; 
+  font-style: normal; 
+}
+
+@font-face { 
+  font-family: 'Futura PT'; 
+  src: url('../font/FuturaPT-Light.ttf')  format('truetype');
+  font-weight: 300; 
+  font-style: normal; 
+}
+
 * {
   margin: 0;
   padding: 0;
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Futura PT", sans-serif;
 }
 
 h1 {
-  padding: 100px 0 20px 0;
+  padding-top: 100px;
   font-size: 45px;
   font-weight: 700;
   text-transform: uppercase;
@@ -24,7 +45,7 @@ h2 {
 }
 
 h3 {
-  margin-bottom: 50px;
+  margin-bottom: 35px;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 25px;
@@ -45,11 +66,11 @@ h3 {
 }
 
 .presentation {
-  padding-bottom: 50px;
-  color: #ffffff;
+  padding-bottom: 60px;
+  color: #2d302e;
   text-align: center;
   background-color: rgba(2, 2, 1, 0.7);
-  background: #e0a70c url(../img/pencil-bg.jpg) no-repeat center top /cover;
+  background: #e0a70c url(../img/jeshoots-com-pUAM5hPaCRI-unsplash.jpg) no-repeat center top /cover;
 }
 
 .presentation a {
@@ -58,31 +79,34 @@ h3 {
 }
 
 .presentation a:hover {
-  color: #ffffff;
-  text-decoration: underline;
+  color: #7c9556;
 }
 
 a {
-  color: #ffba00;
+  color: #2d302e;
+  text-decoration: none;
 }
 
 a:hover {
-  color: #ff4800;
+  color: #7c9556;
 }
 
 .presentation-img {
-  margin: 50px auto;
+  margin: 50px auto 10px;
 }
 
 .my-photo {
   width: 150px;
   height: 150px;
-  border: 3px solid #ffffff;
   border-radius: 50%;
 }
 
 .contacts ul {
   list-style-type: none;
+}
+
+.contacts li a {
+  color: #2d302e;
 }
 
 .about-text {
@@ -94,18 +118,19 @@ a:hover {
   padding: 5px 0;
   text-indent: 1.5em;
   font-size: 16px;
+  font-weight: 300;
 }
 
 .skills {
-  background: #f3ca40;
-  color: #8a8686;
+  background: #e1e0e6;
+  color: #333333;
   padding: 55px 0;
   margin: 50px 0;
 }
 
 .skills h2 {
   margin-top: 0;
-  margin-bottom: 40px;
+  margin-bottom: 15px;
   color: #ffffff;
 }
 
@@ -115,16 +140,19 @@ a:hover {
 }
 
 .skillset ul {
-  list-style-type: line;
+  list-style-type: square;
 }
 
 .skillset ul li {
   padding: 5px;
+  font-weight: normal;
+  font-size: 20px;
 }
 
 .education-story li {
   padding: 10px 0;
   list-style-type: none;
+  font-weight: 300;
 }
 
 .education-story span {
@@ -136,10 +164,13 @@ a:hover {
 .education-online p {
   padding: 15px 0;
   font-weight: 700;
+  color: #7c9556;
 }
 
 .education-online ul {
   padding-left: 35px;
+  list-style-type: square;
+  font-weight: normal;
 }
 
 .education-story, .education-online {
@@ -149,7 +180,13 @@ a:hover {
 .english {
   padding-bottom: 50px;
   line-height: 1.5;
-  border-top: 1px solid rgba(128, 128, 128, 0.637);
+  background: #e1e0e6;
+  color: #333333;
+}
+
+.english h2 {
+  padding-top: 50px;
+  color: #ffffff;
 }
 
 .english-text {
@@ -159,18 +196,13 @@ a:hover {
 
 .english-text p {
   width: 60%;
-  text-align: center;
   line-height: 1.5;
+  font-weight: 300;
 }
 
 .footer {
   padding: 20px 0;
-  background: url(https://images.unsplash.com/photo-1561835476-95863b52c53f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80);
-  background: linear-gradient(90deg,
-      rgba(217, 94, 38, 0.9) 0%,
-      rgba(230, 199, 30, 0.9) 35%,
-      rgba(227, 196, 46, 0.9) 66%,
-      rgba(255, 186, 0, 0.9) 100%);
-  text-align: center;
+  background: #7c9556;
   color: #ffffff;
+  text-align: center;
 }
