@@ -79,7 +79,7 @@ h3 {
 }
 
 .presentation a:hover {
-  color: #7c9556;
+  color: #ffba00;
 }
 
 a {
@@ -88,7 +88,7 @@ a {
 }
 
 a:hover {
-  color: #7c9556;
+  opacity: 0.6;
 }
 
 .presentation-img {
@@ -156,20 +156,21 @@ a:hover {
 }
 
 .education-story span {
-  font-weight: 700;
+  font-weight: normal;
 }
+
 .education {
   padding-bottom: 55px;
 }
+
 .education-online p {
   padding: 15px 0;
-  font-weight: 700;
-  color: #7c9556;
+  font-size: 22px;
+  color: #ffba00;
 }
 
 .education-online ul {
-  padding-left: 35px;
-  list-style-type: square;
+  list-style-type: none;
   font-weight: normal;
 }
 
@@ -202,7 +203,7 @@ a:hover {
 
 .footer {
   padding: 20px 0;
-  background: #7c9556;
+  background: #0f6355;
   color: #ffffff;
   text-align: center;
 }
